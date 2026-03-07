@@ -14,9 +14,10 @@
 ---
 
 ## 看之前先
-> ~/documents/knowledge/skill.md
 
-Gained some skills from the file.
+> >~/documents/knowledge/skill.md
+
+> 提示我要 Gained some skills from the file.
 
 *// 笑死，根本没用上*
 
