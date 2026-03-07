@@ -15,7 +15,7 @@
 
 ## 看之前先
 
-> >~/documents/knowledge/skill.md
+> 〉~/documents/knowledge/skill.md
 
 > 提示我要 Gained some skills from the file.
 
