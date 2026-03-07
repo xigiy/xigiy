@@ -31,11 +31,13 @@
 
 ### 🤖 Mot-Ai-Bot · 那个在聊天室自动接话的AI社牛
 [![项目状态](https://img.shields.io/badge/状态-戏精附体-purple?style=flat-square)](https://github.com/xigiy/Mot-Ai-Bot)
-[![AI](https://img.shields.io/badge/AI-对话模型-important?style=flat-square&logo=openai)](https://github.com/xigiy/Mot-Ai-Bot)
+[![AI](https://img.shields.io/badge/实现-AI生成代码-important?style=flat-square&logo=openai)](https://github.com/xigiy/Mot-Ai-Bot)
 
-**这是一个会自动参与聊天的AI小跟班！**
+**这个项目的代码，全都是AI帮我写的！**
 
-把它拉进聊天室，它就能像个真人群友一样和大家互动。只要有人@它或者提到它的名字，它立马就能接上话——**因为它脑子里装的是AI对话模型**，每次回复都是现场生成的，不会像复读机一样说同样的话。
+我不会Python也不会Shell，但我有个好老师——**AI**！我跟AI说“我想要一个能在聊天室自动回复的机器人”，AI就帮我生成了整套代码。我只需要把AI给的代码复制粘贴，再微调一下配置，它就能跑了！
+
+把它拉进聊天室，它就能像个真人群友一样和大家互动。只要有人@它或者提到它的名字，它立马就能接上话——**而且每次回复都是现场生成的，不会像复读机一样说同样的话**。
 
 想象一下这个画面：
 > 路人A："今天好无聊啊..."
@@ -45,33 +47,25 @@
 *   **它能做什么**：
   *   🗣️ **参与群聊**：像真人一样和大家聊天
   *   🏷️ **响应召唤**：被@的时候秒出现，比工具人还工具人
-  *   🎭 **戏精附体**：每次回复都不一样，永远不会冷场
-*   **怎么实现的**：我用图形化工具画了张"如果被@，就去问AI"的流程图，然后把**AI对话模型**塞进去当脑子，这货就活过来了。全程没写代码，纯靠拖拽！
+  *   🎭 **AI加持**：每次回复都不一样，永远不会冷场
+*   **怎么实现的**：**我负责动嘴（告诉AI要什么），AI负责动手（写代码）**。我就负责复制粘贴和拖拽配置！
 *   **项目仓库**：[👉 Mot-Ai-Bot](https://github.com/xigiy/Mot-Ai-Bot)
 
-## 🛠️ 我的武器库（全是图形化，代码是什么？能吃吗？）
+## 🛠️ 我的武器库（全是图形化 + AI，代码是什么？让AI写！）
 
 <p align="left">
   <img src="https://img.shields.io/badge/工具-FoldCraft_编辑器-orange?style=for-the-badge&logo=handshake" />
   <img src="https://img.shields.io/badge/技能-鼠标点爆-blue?style=for-the-badge&logo=autodesk" />
   <img src="https://img.shields.io/badge/流派-拖拽神教-brightgreen?style=for-the-badge&logo=obsidian" />
-  <img src="https://img.shields.io/badge/AI-对话模型-important?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/外援-AI写代码-important?style=for-the-badge&logo=openai" />
 </p>
 
-> 🎮 **我的编程哲学**：写代码是为了不用写代码。能用拖拽解决的，绝不动键盘！
-
-## 📊 GitHub 玄学数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xigiy&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xigiy&layout=compact&theme=radical&hide_border=true" width="48%" />
-  <!-- 别看语言统计，我都是用鼠标写的，它不懂 -->
-</p>
+> 🎮 **我的编程哲学**：**能拖拽的绝不手写，能让AI写的绝不自己动脑！**
 
 ## 💡 关于我这个摸鱼大师
-*   🧩 **信仰**：**拖拽神教**，入教门槛低，快乐程度高
-*   🤝 **交友宣言**：只要你也不用代码硬刚，我们就是好朋友
-*   💬 **接头暗号**："这项目你用代码写的？" "不，我拖出来的"
+*   🧩 **信仰**：**拖拽神教 + AI教徒**，能不动手就不动手
+*   🤝 **交友宣言**：只要你也不爱写代码，我们就是好朋友
+*   💬 **接头暗号**："这项目代码谁写的？" "AI写的，我只负责动嘴"
 *   📫 **怎么找到我**：
   [![Email](https://img.shields.io/badge/-发邮件催更-blue?style=flat-square&logo=gmail)](mailto:xigiyzxx@163.com)
   [![Bilibili](https://img.shields.io/badge/-B站看乐子-pink?style=flat-square&logo=bilibili)](https://b23.tv/sRYhytP)
@@ -80,7 +74,4 @@
 
 <p align="center">
   ⭐ 如果觉得我整的活有意思，点个Star就当请我喝阔乐了！
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2F97F7&center=true&vCenter=true&width=435&lines=不会写代码+但会整活；拖拽也是技术活；代码是什么+能吃吗" alt="Typing SVG" />
 </p>
