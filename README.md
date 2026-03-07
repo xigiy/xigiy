@@ -2,9 +2,6 @@
 <h3 align="center">一个喜欢用可视化方式创造工具的开发者</h3>
 
 <p align="center">
-  <a href="https://github.com/xigiy">
-    <img src="https://img.shields.io/github/followers/xigiy?label=关注我&style=social" alt="GitHub关注">
-  </a>
   <a href="mailto:xigiyzxx@163.com">
     <img src="https://img.shields.io/badge/联系我-邮箱-blue?style=flat&logo=gmail" alt="Email">
   </a>
@@ -42,7 +39,7 @@
   *   👂 **自动监听**：实时看着聊天室里谁说了什么
   *   🏷️ **识别名字**：当有人提到“机器人”或它的名字，它就“醒”过来
   *   💬 **自动回复**：根据对方说的话，自动生成一句合适的回应发出去
-*   **我怎么实现的**：通过图形化工具，像搭建流程图一样，把“收到消息→判断是不是叫我→生成回答→发送出去”这些步骤连接起来，它就活过来了。
+*   **我怎么实现的**：通过AI工具，像搭建流程图一样，把“收到消息→判断是不是叫我→生成回答→发送出去”这些步骤连接起来，它就活过来了。
 
 ## 🛠️ 我用什么工具创造
 
