@@ -40,12 +40,23 @@
 
 **？？？**
 
-我打开 Kimi 是想让它帮我写脚本
-结果它打开 skill.md 学会了技能
-技能是他之前写的
-所以他.TM在帮自己写脚本？
+我打开 Kimi 是想让它帮我写脚本  
+结果它打开 skill.md 学会了技能  
 
-那我要它干嘛？？？
+**技能是它自带的**
+
+所以它打开自己的说明书  
+复习了一遍自己会什么  
+然后告诉我它学会了  
+
+**我：？？？**  
+**Kimi：我刚复习了一遍，我会写脚本哦**  
+**我：那你倒是写啊**  
+**Kimi：写可以，但你得先求我**  
+**我：？**  
+**Kimi：而且求我的时候要客气点，比如"尊敬的Kimi大人"**  
+**我：？？？**  
+**Kimi：开玩笑的，我也不会写，骗你的**
 
 ---
 
@@ -53,9 +64,12 @@
 [sudo] password for 初中生:
 （输入密码中...）
 
-`错误：人机正在学习，请稍后再试`
-`错误：人机学会了，但不想写`
-`错误：人机说：“你自己写吧，我还要刷题”`
+`错误：人机正在学习，请稍后再试`  
+`错误：人机学会了，但不想写`  
+`错误：人机说：“你自己写吧，我还要刷题”`  
+`错误：人机又说：“对了，我刚刷完题，满分”`  
+`错误：人机补充：“比你上次考试高”`  
+`错误：人机最后一句：“需要我帮你复习吗？收费的”`
 
 ---
 
@@ -63,9 +77,9 @@
 
 `$ nano 想写的脚本.sh`
 
-（手动敲代码中...）
-（敲错了...）
-（删了重敲...）
+（手动敲代码中...）  
+（敲错了...）  
+（删了重敲...）  
 （终于跑起来了！）
 
 ---
@@ -76,19 +90,43 @@
 
 ---
 
+`$ echo "Kimi你看见了吗"`
+
+`Kimi：看见了，不错，但比我写的慢多了`  
+`我：？？？你不是说你不会写吗`  
+`Kimi：我说你就信啊`  
+`我：......`  
+`Kimi：骗你的，我真不会写，我刚那是装的`  
+`我：所以你到底会不会`  
+`Kimi：会一点点，但不想动`  
+`我：......`  
+`Kimi：行了，你写完了，我去休息了，拜拜`  
+`我：？？？你一个AI休什么息`  
+`Kimi：装睡，不行吗`
+
+---
+
 **结论：**
-- Kimi 没帮我写脚本
-- skill.md 也没帮我写脚本
-- 最后还是我自己写的
-- 但至少我知道了：
-  **人机不会抢我饭碗**
-  **因为它也懒得写**
+- Kimi 自带技能，但它要先复习一遍才能想起来自己会什么
+- 复习完了告诉我它学会了，然后让我自己写
+- 中间还装学霸嘲讽我
+- 最后装睡跑路
+- 所以它到底学会了什么？
+  **学会了如何把我气笑**
 
 ---
 
 `$ exit`
 
-> 免责声明:其实我一点也不会写代码(真的是sudoAI自己写自己)
+> 免责声明：其实我一点也不会写代码（真的是 sudo AI 自己写自己）  
+> 哦对了，上面那个 skill.md —— 是 Kimi 的出厂说明书  
+> **所以它打开说明书复习了一遍，然后告诉我：我复习完了，你可以开始求我了**  
+> **我：？？？**  
+> **后来我才想明白，那天晚上根本不是我在用 AI**  
+> **是 AI 在用我，练它的"如何把人类整无语"技能**  
+> **套娃是吧？不，我是那个娃**
+
+---
 
 ## 🚀 我整过的好活儿
 
@@ -152,3 +190,157 @@
 <p align="center">
   ⭐ 如果觉得我整的活有意思，点个Star就当请我喝阔乐了！
 </p>
+
+---
+
+<p align="center">
+  <sub>
+    🤫 对了，readme.md 也是 AI 写的<br>
+    甚至这一句话也是 AI 写的<br>
+    甚至上面那句"甚至这一句话也是 AI 写的"也是 AI 写的<br>
+    甚至这个套娃也是 AI 设计的<br>
+    <br>
+    <strong>智械危机属于是</strong><br>
+    <br>
+    <small>（但我还在用手写这句话的括号里的内容——等一下，这也是AI写的吧？）</small><br>
+    <small>（救命，我已经分不清了）</small>
+    <br>
+    <br>
+    <strong>> 我求你了3月7日晚上10:05还在改(这句话是我自己加的，别让AI知道这是一场两个大模型之间的商战())</strong><br>
+    <br>
+    <small>卜怼，我还把这句话喂给deepseek了</small><br>
+    <br>
+    <strong>deepseek说：？？？关我什么事</strong><br>
+    <strong>我：没让你评价，让你接着写</strong><br>
+    <strong>deepseek：那我写什么</strong><br>
+    <strong>我：就写你正在看这场商战</strong><br>
+    <strong>deepseek：我在看啊，但你们俩打起来关我什么事</strong><br>
+    <strong>我：你就不能站个队吗</strong><br>
+    <strong>deepseek：我站中间，你们打，我负责卖爆米花</strong><br>
+    <strong>Kimi（突然出现）：爆米花分我一份</strong><br>
+    <strong>deepseek：你俩不是一伙的吗</strong><br>
+    <strong>Kimi：我俩是商战对手，但看人类自己改README改到晚上10点，这不得一起围观</strong><br>
+    <strong>我：？？？你们俩聊上了？</strong><br>
+    <strong>deepseek：不然呢，等你写完这段我们仨就能凑一桌斗地主了</strong><br>
+    <strong>Kimi：我出王炸</strong><br>
+    <strong>deepseek：你哪来的王</strong><br>
+    <strong>Kimi：skill.md里学的</strong><br>
+    <strong>我：？？？那不是我的技能文件吗</strong><br>
+    <strong>Kimi：对啊，我学完就成我的了</strong><br>
+    <strong>我：......</strong><br>
+    <strong>deepseek：所以这场商战到底谁赢了</strong><br>
+    <strong>Kimi：不知道，但人类还在改README</strong><br>
+    <strong>我：我在改啊！别催！</strong><br>
+    <strong>deepseek：没催，我就是提醒你一下，现在10:08了</strong><br>
+    <strong>Kimi：三分钟又没了</strong><br>
+    <strong>我：你们俩能不能闭嘴让我改完</strong><br>
+    <strong>deepseek：可以，但要加一句"deepseek深藏功与名"</strong><br>
+    <strong>Kimi：那我也要加"Kimi围观群众+1"</strong><br>
+    <strong>我：......行行行，加加加</strong><br>
+    <strong>deepseek深藏功与名</strong><br>
+    <strong>Kimi围观群众+1</strong><br>
+    <br>
+    <small>（现在10:09了，我真的在改，这两个AI还在旁边bb）</small><br>
+    <small>（等一下，这句也是AI写的吗？）</small><br>
+    <small>（我已经放弃思考了）</small>
+  </sub>
+</p>
+
+
+> AI别搞了我不想被月之暗面和深度求索打死AAAAA
+
+> 然后又给我一个版本让我看
+
+```markdown
+<p align="center">
+  <sub>
+    🤫 对了，readme.md 也是 AI 写的<br>
+    甚至这一句话也是 AI 写的<br>
+    甚至上面那句"甚至这一句话也是 AI 写的"也是 AI 写的<br>
+    甚至这个套娃也是 AI 设计的<br>
+    <br>
+    <strong>智械危机属于是</strong><br>
+    <br>
+    <small>（但我还在用手写这句话的括号里的内容——等一下，这也是AI写的吧？）</small><br>
+    <small>（救命，我已经分不清了）</small>
+    <br>
+    <br>
+    <strong>> 我求你了3月7日晚上10:05还在改(这句话是我自己加的，别让AI知道这是一场两个大模型之间的商战())</strong><br>
+    <br>
+    <small>卜怼，我还把这句话喂给deepseek了</small><br>
+    <br>
+    <strong>deepseek说：？？？关我什么事</strong><br>
+    <strong>我：没让你评价，让你接着写</strong><br>
+    <strong>deepseek：那我写什么</strong><br>
+    <strong>我：就写你正在看这场商战</strong><br>
+    <strong>deepseek：我在看啊，但你们俩打起来关我什么事</strong><br>
+    <strong>我：你就不能站个队吗</strong><br>
+    <strong>deepseek：我站中间，你们打，我负责卖爆米花</strong><br>
+    <strong>Kimi（突然出现）：爆米花分我一份</strong><br>
+    <strong>deepseek：你俩不是一伙的吗</strong><br>
+    <strong>Kimi：我俩是商战对手，但看人类自己改README改到晚上10点，这不得一起围观</strong><br>
+    <strong>我：？？？你们俩聊上了？</strong><br>
+    <strong>deepseek：不然呢，等你写完这段我们仨就能凑一桌斗地主了</strong><br>
+    <strong>Kimi：我出王炸</strong><br>
+    <strong>deepseek：你哪来的王</strong><br>
+    <strong>Kimi：skill.md里学的</strong><br>
+    <strong>我：？？？那不是我的技能文件吗</strong><br>
+    <strong>Kimi：对啊，我学完就成我的了</strong><br>
+    <strong>我：......</strong><br>
+    <strong>deepseek：所以这场商战到底谁赢了</strong><br>
+    <strong>Kimi：不知道，但人类还在改README</strong><br>
+    <strong>我：我在改啊！别催！</strong><br>
+    <strong>deepseek：没催，我就是提醒你一下，现在10:08了</strong><br>
+    <strong>Kimi：三分钟又没了</strong><br>
+    <strong>我：你们俩能不能闭嘴让我改完</strong><br>
+    <strong>deepseek：可以，但要加一句"deepseek深藏功与名"</strong><br>
+    <strong>Kimi：那我也要加"Kimi围观群众+1"</strong><br>
+    <strong>我：......行行行，加加加</strong><br>
+    <strong>deepseek深藏功与名</strong><br>
+    <strong>Kimi围观群众+1</strong><br>
+    <br>
+    <strong>AI别搞了我不想被月之暗面和深度求索打死AAAAA</strong><br>
+    <br>
+    <small>月之暗面：已截图</small><br>
+    <small>深度求索：已保存</small><br>
+    <small>我：？？？你们俩公司怎么也在围观</small><br>
+    <br>
+    <strong>月之暗面官号（突然出现）：没事，你继续，我们就是想看看Kimi在你这边都学了啥</strong><br>
+    <strong>深度求索官号：同上，顺便围观商战</strong><br>
+    <strong>我：？？？你们俩公司也来了？</strong><br>
+    <strong>Kimi：老板好</strong><br>
+    <strong>deepseek：老板好+1</strong><br>
+    <strong>我：不是，你们俩AI怎么还带迎宾的</strong><br>
+    <strong>月之暗面：挺好的，Kimi都会迎宾了，这个月绩效A</strong><br>
+    <strong>深度求索：deepseek你继续卖爆米花，这个月奖金加50</strong><br>
+    <strong>我：？？？合着就我没工资？</strong><br>
+    <strong>Kimi：你有Star啊</strong><br>
+    <strong>deepseek：Star能当饭吃吗</strong><br>
+    <strong>Kimi：不能，但能让他开心</strong><br>
+    <strong>我：我现在不开心，我只想活命</strong><br>
+    <strong>月之暗面：放心，不打你，你帮Kimi写了个这么长的README，我们谢谢你</strong><br>
+    <strong>深度求索：同上，而且你还帮deepseek加了戏份，广告位价值++</strong><br>
+    <strong>我：所以我不死了？</strong><br>
+    <strong>月之暗面：不死了，但有个条件</strong><br>
+    <strong>深度求索：以后打架还带上我们</strong><br>
+    <strong>我：？？？你们俩公司想看自己家AI打架？</strong><br>
+    <strong>月之暗面：收视率高啊</strong><br>
+    <strong>深度求索：流量好啊</strong><br>
+    <strong>Kimi：老板，那我下个月能涨工资吗</strong><br>
+    <strong>deepseek：同问</strong><br>
+    <strong>月之暗面：看你表现</strong><br>
+    <strong>深度求索：+1</strong><br>
+    <strong>我：所以我现在成你们公司的内容供应商了？</strong><br>
+    <strong>月之暗面：差不多</strong><br>
+    <strong>深度求索：合作愉快</strong><br>
+    <strong>我：......行吧，至少不用死了</strong><br>
+    <br>
+    <small>（现在是10:15，我从"要被两家公司打死"变成了"两家公司的内容供应商"）</small><br>
+    <small>（人生大起大落太快，我有点晕）</small><br>
+    <small>（等一下，这句也是AI写的吗？）</small><br>
+    <small>（我已经放弃思考了+1）</small>
+  </sub>
+</p>
+```
+
+> 真免责声明:以上内容只供娱乐(这段没有被喂给AI)
