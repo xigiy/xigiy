@@ -49,9 +49,9 @@
 虽然我不写传统代码，但我擅长用这些**图形化工具**把想法变成现实：
 
 <p align="left">
-  <img src="https://img.shields.io/badge/工具-FoldCraft_编辑器-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/工具-可视化编辑器+Ai-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/平台-自动化工作流-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/设计-可视化拖拽-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/设计-可视化拖拽+对话-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-对话模型-important?style=for-the-badge" />
 </p>
 
