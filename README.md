@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:xigiyzxx@163.com">
-    <img src="https://img.shields.io/badge/发邮件-点我催更-blue?style=flat&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/发邮件-点我催更(点了我也不看)-blue?style=flat&logo=gmail" alt="Email">
   </a>
   <a href="https://b23.tv/sRYhytP">
     <img src="https://img.shields.io/badge/B站-关注看乐子-ff69b4?style=flat&logo=bilibili" alt="B站">
