@@ -50,9 +50,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/工具-可视化编辑器+Ai-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/平台-自动化工作流-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/平台-自动化工作流等-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/设计-可视化拖拽+对话-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-对话模型-important?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-对话模型兴趣-important?style=for-the-badge" />
 </p>
 
 > ✨ **我的理念**：编程不止写代码这一种方式。用图形、用配置、用创意，同样能做出有用的东西！
