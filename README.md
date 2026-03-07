@@ -17,9 +17,25 @@
 
 > 〉~/documents/knowledge/skill.md
 
-> 提示我要 Gained some skills from the file.
+> Gained some skills from the file.
 
-*// 笑死，根本没用上*
+*// 今日随机掉落：*
+
+<details>
+<summary>⚡ 点击查看你抽到的技能吐槽</summary>
+
+| 掷骰子结果 | 吐槽内容 |
+|:---:|---|
+| 🎲 1 | // 然后发现技能是“如何用AI代替自己工作” —— 现在AI上线了，我该干嘛？ |
+| 🎲 2 | // 然后执行 `sudo rm -rf ~/documents/knowledge/skill.md` —— 知识删除术，get ✓ |
+| 🎲 3 | // 然后试图 `git commit -m "became a better developer"` —— 被远程仓库驳回：证据不足 |
+| 🎲 4 | // 然后技能以 root 权限安装 —— 现在电脑不听我话只听它了 |
+| 🎲 5 | // 然后运行 `./become-pro.sh` —— 报错：需先购买终身会员 |
+| 🎲 6 | // 然后发现技能是“读懂 skill.md 里的技能” —— 递归了，系统栈溢出 |
+| 🎲 隐藏款 | // 然后 AI 问我：“需要我帮你写个 README 来展示你刚学会的技能吗？” —— 我：这不正在写吗 |
+
+*🔁 每次打开随机刷新 —— 就像我的技能掌握程度一样不稳定*
+</details>
 
 ## 🚀 我整过的好活儿
 
