@@ -57,13 +57,6 @@
 
 > ✨ **我的理念**：编程不止写代码这一种方式。用图形、用配置、用创意，同样能做出有用的东西！
 
-## 📊 GitHub 小统计
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xigiy&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xigiy&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
 ## 💡 关于我
 *   🧩 我喜欢**用图形化的方式解决问题**，把复杂的逻辑变成直观的流程。
 *   🤝 我对**自动化工具、游戏辅助、AI应用**特别感兴趣。
