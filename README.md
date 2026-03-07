@@ -13,6 +13,13 @@
 
 ---
 
+## 看之前先
+> ~/documents/knowledge/skill.md
+
+Gained some skills from the file.
+
+*// 笑死，根本没用上*
+
 ## 🚀 我整过的好活儿
 
 ### 📱 《手机玩MCJava版：用虚拟按键把触屏变成键盘》
