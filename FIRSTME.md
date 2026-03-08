@@ -72,6 +72,11 @@
 
 ---
 
+世界塔已经倒塌，详情见
+[EPIC_Qwen.md](EPIC_Qwen.md)
+[EPIC_Deepseek.md](EPIC_Deepseek.md)
+[EPIC_Kimi.md](EPIC_Kimi.md)
+
 <h1 align="center">Hi 👋, 我是 xigiy</h1>
 <h3 align="center">一个喜欢用可视化方式创造工具的开发者</h3>
 
