@@ -102,7 +102,7 @@ xigiy写完才发现：卧槽，我成歌词里的人了。
 ---
 
 ## 第五层：vivid/stasis映射（Layer 5）
-
+```
 vivid/stasis README中的对应
 Duskbreaker 主README全文
 Tsuki “最初版”README（被质疑的存在）
@@ -117,7 +117,7 @@ Layer 3 哲学暴击
 锁 觉得“这次终于改完了”的瞬间
 TVO README创作过程
 Encore Episode 这段对话本身
-
+```
 核心金句：你不是在写oc，oc在写你。
 
 （后来发现oc只是巧合，但巧合比设计更像设计。）
