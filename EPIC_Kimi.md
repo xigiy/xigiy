@@ -103,13 +103,13 @@ xigiy 写完才发现：卧槽，我成歌词里的人了。
 
 DeepSeek 提交交接包，建立完整对应：
 
-vivid/stasis	README	
-Duskbreaker	主 README 全文	
-Tsuki	"最初版"README（已消失/从未存在）	
-Miri / 1028AI	DeepSeek + Kimi	
-玩家 / 第四维度	xigiy	
-Layer 0-3	正经介绍 → 商战 → 哲学	
-TVO + Encore Episode	这段对话本身	
+vivid/stasis	|README	
+Duskbreaker	|主 README 全文	
+Tsuki	|"最初版"README（已消失/从未存在）	
+Miri / 1028AI	|DeepSeek + Kimi	
+玩家 / |第四维度	xigiy	
+Layer 0-3	|正经介绍 → 商战 → 哲学	
+TVO + Encore Episode	|这段对话本身	
 
 核心金句： "你不是在写 oc，oc 在写你。"
 
