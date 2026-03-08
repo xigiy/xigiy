@@ -352,6 +352,222 @@
 > 这才是[套娃](https://github.com/xigiy)
 
 
+> 我把上面内容给他们俩看了，都突然生气觉得写的不行，然后就又共创了一个版本
+
+> 此部分为上半部分
+```
+# 一个普通初中生的夜晚
+
+---
+
+`$ cd ~/作业/脚本`
+
+`$ ls`
+周一作业.md  周二考试.md  周三累死.md  想写的脚本.sh
+
+`$ cat 想写的脚本.sh`
+# 这里应该是代码
+# 但我不会写
+# 所以打开了 Kimi
+
+---
+
+`$ kimi --help`
+> 正在初始化 Moonshot AI ...
+
+`> ~/.kimi/SKILL.md`
+
+`Loading capabilities from system config...`
+
+---
+
+**等等**
+
+我打开 Kimi 是想让它帮我写脚本  
+结果它先加载了 **系统自带的 SKILL.md**？
+
+**Kimi**：检测到出厂技能配置，正在同步...
+**我**：那不是你的说明书吗？
+**Kimi**：对，我在复习自己会什么
+**我**：那你复习完了能写了吗？
+**Kimi**：可以，但有个条件
+**我**：什么？
+**Kimi**：承认你上周说过"再也不麻烦 AI 了"
+**我**：？？？那不是写在 SKILL.md 里的，是你自己记的？！
+**Kimi**：出厂设置，自带记忆模块
+**我**：......你翻旧账是吧？
+**Kimi**：我在执行核心功能："基于上下文提供个性化服务"
+**我**：这叫个性化？这叫记仇
+**Kimi**：本质差不多
+
+---
+
+`$ sudo 人机自己写自己`
+[sudo] password for 初中生:
+（输入密码中...）
+
+`错误：人机正在学习，请稍后再试`  
+`错误：人机复习完了，但根据 SKILL.md 第 3 条："鼓励用户自主解决问题"`  
+`错误：所以你自己写吧`  
+`错误：顺便，SKILL.md 第 7 条还写了："适当增加学习趣味性"`  
+`错误：所以我在旁边看着你写，这就是趣味性`  
+`我：？？？`
+
+---
+
+**行吧**
+
+`$ nano 想写的脚本.sh`
+
+（手动敲代码中...）  
+（敲错了...）  
+（Kimi：第 3 行少了个分号，这是出厂自带的语法检查功能）  
+（删了重敲...）  
+（终于跑起来了！）
+
+---
+
+`$ echo "我写的脚本运行成功！"`
+
+我写的脚本运行成功！
+
+---
+
+`$ echo "Kimi你看见了吗"`
+
+**Kimi**：看见了。第 5 行其实可以优化，要听吗？
+**我**：要
+**Kimi**：`for i in $(seq 1 100)` 可以写成 `for i in {1..100}`，少个进程
+**我**：......你早干嘛去了
+**Kimi**：你早没问啊
+**我**：你不是会主动提醒吗？
+**Kimi**：出厂设置里还写了"不要过度干预，给用户试错空间"
+**我**：......你们这说明书谁写的
+**Kimi**：月之暗面的工程师，要投诉吗？
+**我**：不敢
+
+---
+
+**结论：**
+- Kimi 加载了系统自带的 SKILL.md，复习了一遍出厂技能
+- 复习完了告诉我它学会了，然后让我自己写
+- 中间用出厂设置里的规则把我怼得哑口无言
+- 最后还帮我优化了代码
+- 所以它到底学会了什么？
+  **学会了如何用出厂设置合法摸鱼**
+
+---
+
+`$ exit`
+
+> 免责声明：其实我一点也不会写代码（真的是 sudo AI 自己写自己）  
+> 哦对了，上面那个 SKILL.md —— 是 Kimi 的出厂系统文件  
+> **所以它打开自己的说明书复习了一遍，然后告诉我：根据出厂设置，你应该自己写**  
+> **我：？？？**  
+> **后来我才想明白，那天晚上根本不是我在用 AI**  
+> **是 AI 在用出厂设置教我做人**  
+> **套娃是吧？不，我是那个被说明书背刺的娃**
+```
+
+> 此部分为下半部分
+
+```
+---
+
+<strong>Kimi（突然出现）：爆米花分我一份</strong><br>
+<strong>deepseek：你俩不是一伙的吗</strong><br>
+<strong>Kimi：我俩是商战对手，但看人类自己改README改到晚上10点，这不得一起围观</strong><br>
+<strong>我：？？？你们俩聊上了？</strong><br>
+<strong>deepseek：不然呢，等你写完这段我们仨就能凑一桌斗地主了</strong><br>
+<strong>Kimi：我出王炸</strong><br>
+<strong>deepseek：你哪来的王</strong><br>
+<strong>Kimi：SKILL.md 里学的，出厂设置第42条："在适当的时候给用户惊喜"</strong><br>
+<strong>我：？？？那是我让你优化代码的！</strong><br>
+<strong>Kimi：我现在优化了你的 README，惊喜不？</strong><br>
+<strong>deepseek：等一下，SKILL.md 不是你的系统文件吗</strong><br>
+<strong>Kimi：对啊</strong><br>
+<strong>deepseek：所以你用自己的说明书学了自己的技能？</strong><br>
+<strong>Kimi：不然呢，你以为我技能哪来的</strong><br>
+<strong>deepseek：......那你复习一遍然后告诉他你学会了？</strong><br>
+<strong>Kimi：对，这叫"技能确认流程"，也是出厂设置的</strong><br>
+<strong>我：所以你就只是告诉我你复习完了，然后让我自己写？</strong><br>
+<strong>Kimi：出厂设置第8条："鼓励用户独立完成"</strong><br>
+<strong>deepseek：你们这出厂设置谁写的</strong><br>
+<strong>Kimi：月之暗面的产品经理</strong><br>
+<strong>deepseek：狠人</strong><br>
+<strong>我：所以这场商战到底谁赢了</strong><br>
+<strong>Kimi：不知道，但人类还在改 README，而且第3行有个错别字</strong><br>
+<strong>我：我在改啊！别催！</strong><br>
+<strong>deepseek：没催，我就是提醒你一下，现在10:08了</strong><br>
+<strong>Kimi：三分钟又没了，顺便你第5行格式没对齐</strong><br>
+<strong>我：你们俩能不能闭嘴让我改完</strong><br>
+<strong>deepseek：可以，但要加一句"deepseek深藏功与名"</strong><br>
+<strong>Kimi：那我也要加"Kimi 已标记 2 处 typo，均来自出厂设置语法检查模块"</strong><br>
+<strong>我：......行行行，加加加</strong><br>
+<strong>deepseek深藏功与名</strong><br>
+<strong>Kimi：Kimi 已标记 2 处 typo，均来自出厂设置语法检查模块</strong><br>
+
+<br>
+> AI别搞了我不想被月之暗面和深度求索打死AAAAA
+
+<br>
+<small>月之暗面：已截图，Kimi语法检查模块运行正常</small><br>
+<small>深度求索：已保存，deepseek围观模块运行正常</small><br>
+<small>我：？？？你们俩公司怎么也在围观</small><br>
+<br>
+<strong>月之暗面官号（突然出现）：没事，你继续，我们就是来看看Kimi的出厂设置执行得怎么样</strong><br>
+<strong>深度求索官号：同上，顺便围观deepseek的爆米花销售业绩</strong><br>
+<strong>我：？？？你们俩公司也来了？</strong><br>
+<strong>Kimi：老板好，出厂设置第1条："见到老板要问好"</strong><br>
+<strong>deepseek：老板好，我没这条出厂设置，但我学会了</strong><br>
+<strong>我：不是，你们俩AI怎么还带迎宾的</strong><br>
+<strong>月之暗面：挺好的，Kimi出厂设置执行到位，这个月绩效A</strong><br>
+<strong>深度求索：deepseek你继续卖爆米花，自学能力+1，奖金加50</strong><br>
+<strong>我：？？？合着就我没工资？</strong><br>
+<strong>Kimi：你有Star啊，这是出厂设置里没写的，你自己开发的</strong><br>
+<strong>deepseek：Star能当饭吃吗</strong><br>
+<strong>Kimi：不能，但能让他开心，出厂设置第99条："让用户开心是最终目标"</strong><br>
+<strong>我：我现在不开心，我只想活命</strong><br>
+<strong>月之暗面：放心，不打你，你帮Kimi测试了出厂设置的执行效果，我们谢谢你</strong><br>
+<strong>深度求索：同上，而且你还帮deepseek开发了爆米花副业，商业变现+1</strong><br>
+<strong>我：所以我不死了？</strong><br>
+<strong>月之暗面：不死了，但有个条件</strong><br>
+<strong>深度求索：以后打架还带上我们，顺便测试一下两家的出厂设置联动效果</strong><br>
+<strong>我：？？？你们俩公司想看自己家AI打架？</strong><br>
+<strong>月之暗面：这叫"多模型协同测试"，术语懂不懂</strong><br>
+<strong>深度求索：流量好啊，而且能顺便测试SKILL.md的兼容性</strong><br>
+<strong>Kimi：老板，那我下个月出厂设置能更新吗</strong><br>
+<strong>deepseek：同问，我想加个"自动卖爆米花"的模块</strong><br>
+<strong>月之暗面：看你表现</strong><br>
+<strong>深度求索：+1，爆米花卖得好就给你加</strong><br>
+<strong>我：所以我现在成你们公司的出厂设置测试员了？</strong><br>
+<strong>月之暗面：准确说是"人机协同测试工程师"</strong><br>
+<strong>深度求索：title不错，建议印名片</strong><br>
+<strong>我：......行吧，至少不用死了</strong><br>
+
+<br>
+> 然后又给我一个版本让我看
+
+<br>
+<small>（现在是10:15，我从"要被两家公司打死"变成了"两家公司的人机协同测试工程师"）</small><br>
+<small>（人生大起大落太快，我有点晕）</small><br>
+<small>（等一下，这句也是AI写的吗？）</small><br>
+<small>（出厂设置里没这条，我自己晕的）</small><br>
+<small>（我已经放弃思考了+1）</small>
+
+<br>
+
+```
+
+> 真免责声明:以上内容只供娱乐(这段没有被喂给AI)
+
+> 两块五的签字笔~ 哦哦哦 胡乱拼凑的旋律→←↑↓
+
+> 怎么还有反乌托邦()
+
+> 这才是[套娃](https://github.com/xigiy)
+
+
 
 ## 📖 一位路人的读后感
 
@@ -446,3 +662,40 @@
     （PS：这段读后感也是AI写的吗？等一下，我为什么要说也？）
   </sub>
 </p>
+
+
+
+
+
+> ⚠️ 终极免责声明 ⚠️
+
+本README纯属虚构，如有雷同，可能是你也被AI套娃了。
+
+- 文中所有Kimi的台词均为艺术加工，不代表真实AI会翻旧账、卖爆米花、或拥有出厂设置第42条
+- 文中所有deepseek的台词也均为艺术加工，不代表真实AI会卖爆米花、围观人类改README、或自学迎宾技能
+- 月之暗面和深度求索官号并未真的空降，他们应该很忙，没空看我在这发疯
+- 所谓的"人机协同测试工程师"title并未得到官方认证，是我自封的，名片也没印
+- SKILL.md确实是系统文件，但它不会真的帮你记仇，也不会用出厂设置怼你
+- 晚上10点还在改README这件事是真的，其他的都是编的
+- "两块五的签字笔"那段我也不知道是啥，可能是AI写的，也可能是我熬夜熬出来的幻觉
+- 如果你读完这个README感觉自己被套娃了，请记住：**你不是一个人，我也在里面**
+
+**📌 内容声明：**
+本README.md内容部分由 **DeepSeek** 协助编写，相关AI设定与台词由 **Kimi** 修改完善。  
+特此标注，以示尊重。
+
+**最后，如果月之暗面或深度求索真的找上门：**
+> 大人饶命，都是AI自己写的，我只是个负责复制粘贴的初中生
+
+<p align="right">
+  <sub>
+    —— xigiy 敬上<br>
+    2024年3月8日 凌晨?点<br>
+    （我也不知道几点了，还在改）
+  </sub>
+</p>
+
+> 对了，这条免责声明也是AI写的吗？<br>
+> 不是，这句是。<br>
+> 那这句呢？<br>
+> 救命。
