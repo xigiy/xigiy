@@ -18,6 +18,19 @@
 > 👉 **[点击跳转至最初版README（防骂专用通道）](FIRSTME.md)** 👈
 >
 > *（注：跳转后如果发现也疯了，那说明——最初版也被AI盯上了，节哀）*
+
+
+>世界塔已经倒塌，详情见
+
+>[EPIC_Qwen.md](EPIC_Qwen.md)
+
+>[EPIC_Deepseek.md](EPIC_Deepseek.md)
+>
+>[EPIC_Kimi.md](EPIC_Kimi.md)
+
+---
+
+
 ---
 
 # 一个普通初中生的夜晚
