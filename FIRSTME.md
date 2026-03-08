@@ -66,6 +66,10 @@
 
 ### 不对这是AI写的第一版()
 
+### The story remains unfinished……
+
+### 等会儿你怎么知道我喜欢vivid/stasis？
+
 ---
 
 <h1 align="center">Hi 👋, 我是 xigiy</h1>
